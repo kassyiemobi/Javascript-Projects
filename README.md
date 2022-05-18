@@ -12,3 +12,8 @@ A compilation of different javascript projects
 - Questions from Obj
 - Select answers
 - Show scores
+
+3. Todo App
+
+- Local storage Used
+- Crud
